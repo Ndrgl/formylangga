@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<img class="”responsive/fluid”" src="langga02.jpg" alt="ikaw at ako" />
+<img class=""responsive/fluid”" src="langga02.jpg" alt="ikaw at ako" />
 	<script>
 //javascript alert box
 alert("Cheers to our 1st New Year together!");
@@ -17,7 +17,7 @@ alert("mahal na mahal kita, langga! I'm very lucky to have you, my very poging b
 alert("laban lang! andito lang ako para sayo! proud of you always! (⁠☆⁠▽⁠☆⁠)");
 	</script>
 <h1> let's welcome 2024 together! mwaaaa! </h1>
-<img class="”responsive/fluid”" src="Langga01.jpg" alt="Iloveyou" />
+<img class=""responsive/fluid”" src="Langga01.jpg" alt="Iloveyou" />
 	
 </body>
 </html>
